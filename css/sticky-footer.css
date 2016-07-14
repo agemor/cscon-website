@@ -11,5 +11,9 @@ body {
   bottom: 0;
   width: 100%;
   /* Set the fixed height of the footer here */
-  height: 115px;
+  height: 150px;
 }
+
+  .text-content {
+    font-size: 16px;
+  }
