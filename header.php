@@ -37,9 +37,9 @@
               <ul class="dropdown-menu">
                 <li><a href="./about">컨퍼런스 소개</a>
                 </li>
-                <li><a href="./sponsors">후원 및 주관 기관</a>
+                <li><a href="./sponsors">후원기관 소개</a>
                 </li>
-                <li><a href="./committee">조직위원회</a>
+                <li><a href="./committee">조직위원회 소개</a>
                 </li>
                 <li role="separator" class="divider"></li>
                 <li><a href="./notice">공지사항</a>
