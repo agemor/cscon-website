@@ -4,7 +4,7 @@
 
 <div class="well" style="margin-top:-20px; padding:0px">
   <div class="container" style="padding-top: 20px; padding-bottom: 20px">
-    <h3>컨퍼런스 소개</h3>
+    <h3>컨퍼런스 소개 <small>About The Event</small></h3>
   </div>  
 </div>
 
@@ -12,7 +12,7 @@
 <div class="container">
 
 <div class="page-header">
-  <h4>CSCON 소개 <small>함께 배우고 성장하는 CSCON</small></h4>
+  <h4>CSCON 소개 <small>What is CSCON?</small></h4>
 </div>
 
 
@@ -32,7 +32,7 @@ CSCON은 동일한 눈높이에서 스타트업에 대한 이상과 꿈, 그리�
 행사를 준비하는 조직위원회 역시 대학생 창업가들로 구성되어 있으며, 같은 길을 걷고 있는 청년들과 서로의 고민과 경험을 나누며 공감하고 성장할 수 있는 스타트업 컨퍼런스를 만들기 위해 최선을 다하고 있습니다.</p>
 
 <div class="page-header">
-  <h4>행사 연혁 <small></small></h4>
+  <h4>행사 연혁 <small>Event History</small></h4>
 </div>
 
 <ul>
@@ -41,7 +41,7 @@ CSCON은 동일한 눈높이에서 스타트업에 대한 이상과 꿈, 그리�
 </ul>
 
 <div class="page-header">
-  <h4>소식 채널 <small>SNS를 통해 행사 소식을 빠르게 받아보세요</small></h4>
+  <h4>소셜 채널 <small>Social Channels</small></h4>
 </div>
 <ul>
   <li class="text-content"><a href="https://facebook.com/cscon.official/">Facebook 페이지</a></li>

@@ -15,18 +15,30 @@
     <div class="item active">
       <img src="./images/carousel-1.jpg">
       <div class="carousel-caption">
-        <h1>Another example headline.</h1>
-        <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+        <h1>Broaden your knowledge</h1>
+        <p>기조강연 - 권장연 연세대학교 교수</p>
       </div>
     </div>
     <div class="item">
       <img src="./images/carousel-2.jpg">
+      <div class="carousel-caption">
+              <h1>Share your experiences</h1>
+        <p>「서울버스 앱 개발 스토리」 - 유주완 전 서울버스모바일 대표</p>
+      </div>
     </div>
     <div class="item">
       <img src="./images/carousel-3.jpg">
+      <div class="carousel-caption">
+        <h1>Join a network of leaders</h1>
+        <p>점심 네트워킹 세션</p>
+      </div>
     </div>
     <div class="item">
       <img src="./images/carousel-4.jpg">
+      <div class="carousel-caption">
+        <h1>Get insights</h1>
+        <p>「지극히 주관적이나 생생한 폴라리언트 이야기」 - 장혁 폴라리언트 대표</p>
+      </div>
     </div>
   </div>
   <!-- Left and right controls -->

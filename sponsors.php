@@ -4,7 +4,7 @@
 
 <div class="well" style="margin-top:-20px; padding:0px">
   <div class="container" style="padding-top: 20px; padding-bottom: 20px">
-    <h3>후원기관 소개</h3>
+    <h3>후원기관 소개 <small>Our Sponsors</small></h3>
   </div>  
 </div>
 
@@ -12,7 +12,7 @@
 <div class="container">
 
 <div class="page-header">
-  <h4>감사의 말씀</h4>
+  <h4>감사의 말씀 <small>Thanks Message</small></h4>
 </div>
 
 <p class="text-content">&nbsp;&nbsp;대학생 창업 생태계 활성화를 위해 행사 개최에 많은 도움을 주신 기관들을 소개합니다. 이러한 기관들의 후원 덕택으로 CSCON의 기본 취지인 무료 참가비 원칙을 지키면서도, 수준 높은 대회를 준비하고 개최할 수 있었습니다.</p>
@@ -21,7 +21,7 @@
 
 
 <div class="page-header">
-  <h4>후원 기관<small></small></h4>
+  <h4>후원 기관 <small>List of Sponsors</small></h4>
 </div>
 
 <a href="http://yict.yonsei.ac.kr"><img class="img-responsive" src="images/previous-events/1st/sponsors/yonsei-yict-logo.png" style="width: 60%; max-width: 320px"/></a></p>
@@ -40,7 +40,7 @@
 
 
 <div class="page-header">
-  <h4>후원 문의</h4>
+  <h4>후원 문의 <small>Sponsorship Enquiry</small></h4>
 </div>
 
 <p class="text-content" style="margin-bottom: 30px">CSCON은 뜻있는 기관들의 후원으로 투명하게 운영되고 있습니다.<br>후원과 관련한 자세한 문의는 <a href="mailto:curator@cscon.or.kr">curator@cscon.or.kr</a>로 연락해 주시면 감사하겠습니다.</p>

@@ -4,7 +4,7 @@
 
 <div class="well" style="margin-top:-20px; padding:0px">
   <div class="container" style="padding-top: 20px; padding-bottom: 20px">
-    <h3>조직위원회 소개</h3>
+    <h3>조직위원회 소개 <small>Organizing Committee</small></h3>
   </div>  
 </div>
 
@@ -12,7 +12,7 @@
 <div class="container">
 
 <div class="page-header">
-  <h4>조직위원회 소개</h4>
+  <h4>조직위원회 소개 <small>About Organizing Committee</small></h4>
 </div>
 
 <p class="text-content">CSCON 조직위원회는 대학생 창업 네트워크 활성화의 필요성을 하나의 움직임으로 보여주고자 하는 대학생 활동가들로 구성되어 있습니다.</p>
@@ -20,7 +20,7 @@
 
 
 <div class="page-header">
-  <h4>조직위원회 구성 <small>(가나다순 정렬)</small></h4>
+  <h4>조직위원회 구성 <small>Committee Members</small></h4>
 </div>
 
 
@@ -256,7 +256,7 @@
 
 
     <div class="page-header">
-  <h4>조직위원회 지원</h4>
+  <h4>조직위원회 지원 <small>Applying for Organizing Committee</small></h4>
 </div>
 <p class="text-content">&nbsp;&nbsp;
 CSCON은 열정 넘치는 조직위원회 멤버를 언제나 기다리고 있습니다. 최고의 열정가들과 함께 행사를 처음부터 조직해 나가는 경험은 분명 새로운 삶의 인사이트를 줄 것입니다. 매년 1회 정기적으로 멤버를 모집하니, 자세한 사항은 공지사항을 참고하세요.<br><br>
