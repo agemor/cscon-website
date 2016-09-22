@@ -15,7 +15,7 @@
   <h4>감사의 말씀 <small>Thanks Message</small></h4>
 </div>
 
-<p class="text-content">&nbsp;&nbsp;대학생 창업 생태계 활성화를 위해 행사 개최에 많은 도움을 주신 기관들을 소개합니다. 이러한 기관들의 후원 덕택으로 CSCON의 기본 취지인 무료 참가비 원칙을 지키면서도, 수준 높은 대회를 준비하고 개최할 수 있었습니다.</p>
+<p class="text-content">&nbsp;&nbsp;대학생 창업 생태계 활성화를 위해 행사 개최에 많은 도움을 주신 기관들을 소개합니다. 이러한 기관들의 후원 덕택으로 YSCON의 기본 취지인 무료 참가비 원칙을 지키면서도, 수준 높은 대회를 준비하고 개최할 수 있었습니다.</p>
 
 <p class="text-content">&nbsp;&nbsp;항상 청년 창업 생태계 형성에 관심 갖고 힘써 주시는 후원기관께 깊은 감사의 말씀을 드립니다.</p>
 
@@ -43,7 +43,7 @@
   <h4>후원 문의 <small>Sponsorship Enquiry</small></h4>
 </div>
 
-<p class="text-content" style="margin-bottom: 30px">CSCON은 뜻있는 기관들의 후원으로 투명하게 운영되고 있습니다.<br>후원과 관련한 자세한 문의는 <a href="mailto:curator@cscon.or.kr">curator@cscon.or.kr</a>로 연락해 주시면 감사하겠습니다.</p>
+<p class="text-content" style="margin-bottom: 30px">YSCON은 뜻있는 기관들의 후원으로 투명하게 운영되고 있습니다.<br>후원과 관련한 자세한 문의는 <a href="mailto:curator@YSCON.or.kr">curator@YSCON.or.kr</a>로 연락해 주시면 감사하겠습니다.</p>
 
 
 

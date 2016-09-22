@@ -1,5 +1,5 @@
 <?php
-  $PAGE_TITLE = "대학생 창업 컨퍼런스 CSCON";
+  $PAGE_TITLE = "대학생 창업 컨퍼런스 YSCON";
 ?>
 <!DOCTYPE html>
 <html lang="ko">
@@ -29,7 +29,7 @@
           <span class="icon-bar"></span>
           </button>
           <a class="navbar-brand" href="./">
-          <img style="max-width:160px; margin-top: -15px; margin-right:18px" src="/images/cscon-logo.png">
+          <img style="max-width:160px; margin-top: -15px; margin-right:18px" src="/images/YSCON-logo.png">
           </a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->

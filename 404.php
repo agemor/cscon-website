@@ -16,7 +16,7 @@
 
 <p class="text-content">이 페이지는 존재하지 않거나 다른 곳으로 이동된 페이지입니다.</p>
 
-<p class="text-content"><a href="mailto:webmaster@cscon.or.kr">웹 관리자</a>를 통해 문의해 주시면 자세히 답해드리겠습니다.</p>
+<p class="text-content"><a href="mailto:webmaster@YSCON.or.kr">웹 관리자</a>를 통해 문의해 주시면 자세히 답해드리겠습니다.</p>
 
 </div>
 

@@ -54,14 +54,14 @@
 <div class="container">
   <div class="row">
     <div class="col-md-4">
-      <h3>CSCON은?</h3>
-      <p>  CSCON은 전국의 창업동아리들과 함께 여는 대학생 창업 컨퍼런스로, 스타트업에 도전하고 있거나 관심 있는 전국의 학생들이 모여 교류하는 자리입니다.</p>
+      <h3>YSCON은?</h3>
+      <p>  YSCON은 전국의 창업동아리들과 함께 여는 대학생 창업 컨퍼런스로, 스타트업에 도전하고 있거나 관심 있는 전국의 학생들이 모여 교류하는 자리입니다.</p>
       <p><a class="btn btn-default btn-sm" href="./about" role="button">더 보기 &raquo;</a>
       </p>
     </div>
     <div class="col-md-4">
       <h3>프로그램</h3>
-      <p>CSCON은 다양한 네트워킹 기회 제공을 통해 참가자 간 교류를 도모하고 선배 창업가들을 모시고 창업에 관한 경험과 인사이트를 공유합니다.</p>
+      <p>YSCON은 다양한 네트워킹 기회 제공을 통해 참가자 간 교류를 도모하고 선배 창업가들을 모시고 창업에 관한 경험과 인사이트를 공유합니다.</p>
       <p><a class="btn btn-default btn-sm" href="#" role="button">더 보기 &raquo;</a>
       </p>
     </div>
@@ -77,11 +77,11 @@
   <hr>
 <div style="margin: 30px"></div>
 
-  <h3 class="text-center" style="margin-bottom: 30px">다가오는 11월 19일 제2회 CSCON이 개최됩니다.</h3>
+  <h3 class="text-center" style="margin-bottom: 30px">다가오는 11월 19일 제2회 YSCON이 개최됩니다.</h3>
 
 <img class="img-responsive" src="./images/presentation.png" style="width: 40%; max-width:140px; margin:auto;margin-top: 50px; margin-bottom: 20px; "/>
 
-  <p class="text-center text-content">열정 넘치는 장래 창업가들이 한 데 모여 성장하는 기회,<br> 2nd <a href="#">CSCON</a>에서 가치있는 경험과 지식을 전달해 주실 발표자를 찾습니다.</p>
+  <p class="text-center text-content">열정 넘치는 장래 창업가들이 한 데 모여 성장하는 기회,<br> 2nd <a href="#">YSCON</a>에서 가치있는 경험과 지식을 전달해 주실 발표자를 찾습니다.</p>
 
 <br>
 
@@ -89,7 +89,7 @@
 <p class="text-center text-content">발표기간: 2016.10.12(수)까지 (후 개별 연락)</p>
 
 <div style="margin: 30px"></div>
-<p class="text-center text-content">문의: <a href="mailto:curator@cscon.or.kr">curator@cscon.or.kr</a></p>
+<p class="text-center text-content">문의: <a href="mailto:curator@YSCON.or.kr">curator@YSCON.or.kr</a></p>
 <div style="margin: 80px"></div>
 
 </div>

@@ -14,7 +14,7 @@
 <div class="page-header">
   <h4>보도자료 <small>Press Releases</small></h4>
 </div>
-<p class="text-content">CSCON 보도자료 요청이나 행사 사진, 취재 관련 사항은 <a href="mailto:press@cscon.or.kr">press@cscon.or.kr</a>로 문의해 주시면 감사하겠습니다.</p>
+<p class="text-content">YSCON 보도자료 요청이나 행사 사진, 취재 관련 사항은 <a href="mailto:press@YSCON.or.kr">press@YSCON.or.kr</a>로 문의해 주시면 감사하겠습니다.</p>
 
 <div class="page-header">
   <h4>제1회 <small>The 1st</small></h4>
@@ -46,12 +46,12 @@
       </tr>
       <tr>
         <td>한국대학신문</td>
-        <td><a href="http://news.unn.net/news/articleView.html?idxno=159778">연세대, 대학생 손으로 만든 창업 컨퍼런스 'CSCON' 열어</a></td>
+        <td><a href="http://news.unn.net/news/articleView.html?idxno=159778">연세대, 대학생 손으로 만든 창업 컨퍼런스 'YSCON' 열어</a></td>
         <td>2016. 05. 31</td>
       </tr>
       <tr>
         <td>베리타스알파</td>
-        <td><a href="http://www.veritas-a.com/news/articleView.html?idxno=59202">연세대, 대학생 위한창업 컨퍼런스 CSCON '성료'</a></td>
+        <td><a href="http://www.veritas-a.com/news/articleView.html?idxno=59202">연세대, 대학생 위한창업 컨퍼런스 YSCON '성료'</a></td>
         <td>2016. 05. 31</td>
       </tr>
       <tr>
@@ -61,7 +61,7 @@
       </tr>
       <tr>
         <td>천지일보</td>
-        <td><a href="http://www.newscj.com/news/articleView.html?idxno=353035">대학생을 위한 창업 컨퍼런스 CSCON 열려</a></td>
+        <td><a href="http://www.newscj.com/news/articleView.html?idxno=353035">대학생을 위한 창업 컨퍼런스 YSCON 열려</a></td>
         <td>2016. 05. 31</td>
       </tr>
     </tbody>
