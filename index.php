@@ -77,7 +77,7 @@
   <hr>
 <div style="margin: 30px"></div>
 
-  <h3 class="text-center" style="margin-bottom: 30px">다가오는 11월 19일 제2회 YSCON이 개최됩니다.</h3>
+  <h3 class="text-center" style="margin-bottom: 30px">다가오는 2017년 1월 14일 제2회 YSCON이 개최됩니다.</h3>
 
 <img class="img-responsive" src="./images/presentation.png" style="width: 40%; max-width:140px; margin:auto;margin-top: 50px; margin-bottom: 20px; "/>
 
@@ -85,8 +85,8 @@
 
 <br>
 
-<p class="text-center text-content">모집일정: 2016.09.15(목) ~ 2016.10.05(수)</p>
-<p class="text-center text-content">발표기간: 2016.10.12(수)까지 (후 개별 연락)</p>
+<p class="text-center text-content">모집일정: 2016.11.20(일) ~ 2016.12.23(금)</p>
+<p class="text-center text-content">발표기간: 2016.12.30(금)까지 (후 개별 연락)</p>
 
 <div style="margin: 30px"></div>
 <p class="text-center text-content">문의: <a href="mailto:curator@YSCON.or.kr">curator@YSCON.or.kr</a></p>
