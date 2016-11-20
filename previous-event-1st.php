@@ -5,7 +5,7 @@
 <div class="well" style="margin-top:-20px; padding:0px">
   <div class="container" style="padding-top: 20px; padding-bottom: 20px">
     <h3>제1회: LINK YOUNG IT LEADERS <small>The 1st Event</em></small></h3>
-  </div>	
+  </div>
 </div>
 
 
@@ -32,7 +32,7 @@
               <img class="img-responsive" src="./images/previous-events/1st/speakers/jangyeon.kwon.jpg" alt="" style="width: 100%">
               <div class="overlay text-center">
                 <h2>환영사</h2>
-                
+
               </div>
             </div>
           </div>
@@ -59,8 +59,8 @@
             <div class="hovereffect text-center" style="margin-bottom: 0px">
               <img class="img-responsive" src="./images/previous-events/1st/speakers/dongho.kim.jpg" alt="" style="width: 100%">
               <div class="overlay text-center">
-                <h2>청년 창업가를 만나다</h2>
-                
+                <h2>당신은 무슨 문제를 풀고 있습니까?</h2>
+
               </div>
             </div>
           </div>
@@ -82,8 +82,8 @@
             <div class="hovereffect text-center" style="margin-bottom: 0px">
               <img class="img-responsive" src="./images/previous-events/1st/speakers/hyuk.jang.jpg" alt="" style="width: 100%">
               <div class="overlay text-center">
-                <h2>청년 창업가를 만나다</h2>
-                
+                <h2>지극히 주관적이나 생생한 폴라리언트 이야기</h2>
+
               </div>
             </div>
           </div>
@@ -91,7 +91,7 @@
             <div class="text-center">
               <h4>장 혁 (Andrew Jang)</h4>
               <h5 style="color:grey;"><a href="http://polariant.io/" style="color:grey;">Polariant</a> 대표<br> &nbsp; </h5>
-             
+
             </div>
           </div>
         </div>
@@ -103,7 +103,7 @@
             <div class="hovereffect text-center" style="margin-bottom: 0px">
               <img class="img-responsive" src="./images/previous-events/1st/speakers/sunghyun.kim.jpg" alt="" style="width: 100%">
               <div class="overlay text-center">
-                <h2>청년 창업가를 만나다</h2>
+                <h2>직토 이야기</h2>
               </div>
             </div>
           </div>
@@ -111,7 +111,7 @@
             <div class="text-center">
              <h4>김성현 (Shawn Kim)</h4>
         <h5 style="color:grey;"><a href="http://zikto.com/" style="color:grey;">ZIKTO</a> 최고기술책임자<br> &nbsp; </h5>
-             
+
             </div>
           </div>
         </div>
@@ -123,8 +123,8 @@
             <div class="hovereffect text-center" style="margin-bottom: 0px">
               <img class="img-responsive" src="./images/previous-events/1st/speakers/soyoung.shim.jpg" alt="" style="width: 100%">
               <div class="overlay text-center">
-                <h2>청년 창업가를 만나다</h2>
-                
+                <h2>내가 하는 작은 행동이 기회를 만든다</h2>
+
               </div>
             </div>
           </div>
@@ -132,7 +132,7 @@
             <div class="text-center">
             <h4>심소영 (Soyoung Shim)</h4>
         <h5 style="color:grey;"><a href="http://dodotdo.com/" style="color:grey;">DoDotDo</a> 대표<br> &nbsp;  </h5>
-             
+
             </div>
           </div>
         </div>
@@ -144,8 +144,8 @@
             <div class="hovereffect text-center" style="margin-bottom: 0px">
               <img class="img-responsive" src="./images/previous-events/1st/speakers/sehyun.yeom.jpg" alt="" style="width: 100%">
               <div class="overlay text-center">
-                <h2>청년 창업가를 만나다</h2>
-                
+                <h2>3류 소설가</h2>
+
               </div>
             </div>
           </div>
@@ -153,7 +153,7 @@
             <div class="text-center">
             <h4>염세현 (Sehyun Yeom)</h4>
         <h5 style="color:grey;"><a href="http://www.uproot.im/" style="color:grey;">UpRoot</a> 대표<br> &nbsp; </h5>
-             
+
             </div>
           </div>
         </div>
@@ -165,8 +165,8 @@
             <div class="hovereffect text-center" style="margin-bottom: 0px">
               <img class="img-responsive" src="./images/previous-events/1st/speakers/intaek.kwon.jpg" alt="" style="width: 100%">
               <div class="overlay text-center">
-                <h2>청년 창업가를 만나다</h2>
-                
+                <h2>오픈놀 이야기</h2>
+
               </div>
             </div>
           </div>
@@ -174,7 +174,7 @@
             <div class="text-center">
             <h4>권인택 (Intaek Kwon)</h4>
         <h5 style="color:grey;"><a href="https://company.openknowl.com" style="color:grey;">OpenKnowl</a> 대표<br> &nbsp; </h5>
-             
+
             </div>
           </div>
         </div>
@@ -186,8 +186,8 @@
             <div class="hovereffect text-center" style="margin-bottom: 0px">
               <img class="img-responsive" src="./images/previous-events/1st/speakers/juwan.yoo.jpg" alt="" style="width: 100%">
               <div class="overlay text-center">
-                <h2>청년 창업가를 만나다</h2>
-                
+                <h2>서울버스 앱 개발 스토리</h2>
+
               </div>
             </div>
           </div>
@@ -209,10 +209,10 @@
 
     <style type="text/css">
       .table td {
-   text-align: center;  
+   text-align: center;
 }
 .table th {
-   text-align: center;   
+   text-align: center;
 }
     </style>
   <table class="table table-hover" style="margin-bottom: 80px">

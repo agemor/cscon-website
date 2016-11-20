@@ -29,7 +29,7 @@
           <span class="icon-bar"></span>
           </button>
           <a class="navbar-brand" href="./">
-          <img style="max-width:120px; margin-top: -15px; margin-right:18px" src="/images/YSCON-logo.png">
+          <img style="max-width:160px; margin-top: -15px; margin-right:18px" src="/images/YSCON-logo-text.png">
           </a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
